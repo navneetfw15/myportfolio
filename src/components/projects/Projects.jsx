@@ -28,20 +28,20 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/ZoomCar-homepage.png"} alt="" />
+          <img src={"assets/project2.png"} alt="" />
         </div>
         <div className="pinf">
           {/* <div className="pinfone"> */}
-          <h3>ZOOMCAR(clone)</h3>
+          <h3>Movie App</h3>
           <p>
-            A clone of Zoomcar is a self-drive car rental service.
+            Movie App link a netflix
             </p>
             {/* </div> */}
           <h4>Tech Stack</h4>
-          <p>HTML5 . CSS3 . Javascript  . Mongodb . Nodejs . expressjs </p>
+          <p>HTML5 . CSS3 . Javascript . expressjs .react </p>
           <div className="card_btn">
-            <button><a target="_blank" href="http://3.82.160.93:2345/home">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/Raosandeep007/Zoom-Car-Clone"> CODE</a></button>
+            <button><a target="_blank" href="https://jade-mermaid-720727.netlify.app">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/navneetfw15/react_movie_app.git"> CODE</a></button>
           </div>
         </div>
           </div>
@@ -50,19 +50,18 @@ export default function Projects() {
 
        <div className="pcards">
         <div className="pimg">
-          <img src={"assets/KFC-homepage.png"} alt="" />
+          <img src={"assets/project3.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>KFC(clone)</h3>
+        <h3>Text Converter</h3>
           <p>
-           KFC is a fast-food brand and quick-serve restaurant
-             specializing in fried chicken.
+          Text Converter App it convert uppercase to lowercase and copy , count the word
            </p>
           <h4>Tech Stack</h4>
-          <p>HTML . CSS . Javascript . Local Storage</p>
+          <p>HTML . CSS . Javascript . Local Storage .react</p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://shashikfc.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/shashifw11/SHASHIKFC-"> CODE</a></button>
+            <button><a target="_blank" href="https://beautiful-nasturtium-524ad7.netlify.app">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/navneetfw15/Text-Converter_react_app.git"> CODE</a></button>
           </div>
         </div>
       </div>
@@ -71,19 +70,19 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/lakme.png"} alt="" />
+          <img src={"assets/project4.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>LAKME(clone)</h3>
+        <h3>Weather-App</h3>
           <p>
-          Lakmé was the country's first cosmetic brand to introduce make up to Indian women.
+         You enter thr loction of anywhere in this app, this app will show the weather of these area
         
             </p>
           <h4>Tech Stack</h4>
-          <p>HTML5 . CSS . JavaScript . Localstorage</p>
+          <p>HTML5 . CSS . JavaScript . Localstorage . react</p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://lakme-clone.vercel.app/">DEMO</a></button>
-            <button><a target="_blank" href=" https://github.com/nkil123/lakme_clone"> CODE</a></button>
+            <button><a target="_blank" href="https://deft-entremet-d8f1a7.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/navneetfw15/react-weather_app.git"> CODE</a></button>
           </div>
         </div>
       </div>
